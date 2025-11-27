@@ -1,0 +1,29 @@
+# Build folders
+build/
+out/
+bin/
+Debug/
+Release/
+x64/
+*.user
+*.obj
+*.pdb
+*.db
+*.opendb
+
+# VS cache files
+.vs/
+*.suo
+
+# CMake build artifacts
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# Logs
+*.log
+
+# Temporary
+*.tmp
+*.temp
